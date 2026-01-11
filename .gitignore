@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# CSV data files (optional - keep if you want to upload data)
+# yelp_reviews_cleaned.csv
+# yelp_reviews_raw.csv
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
+*.png
+
+# Model results
+model_results.csv
+output.png
+accurancy.png
+confution matrix.png
+AVM.png
