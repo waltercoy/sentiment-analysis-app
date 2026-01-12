@@ -3,7 +3,7 @@
 Web application for predicting sentiment (Positive/Negative) from restaurant reviews using Machine Learning.
 
 ## 🚀 Live Demo
-[Your Streamlit App URL will be here after deployment]
+https://sentiment-analysis-app-review.streamlit.app/
 
 ## 📊 Models
 - **Logistic Regression** - F1-Score: 91.30%
