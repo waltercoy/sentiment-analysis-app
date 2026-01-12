@@ -25,7 +25,8 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# Allow project.ipynb to be committed
+# *.ipynb
 
 # CSV data files (optional - keep if you want to upload data)
 # yelp_reviews_cleaned.csv
